@@ -1,0 +1,12 @@
+{
+  "name": "botbuilder-test",
+  "version": "1.0.0",
+  "description": "Trying out the bot builder SDK",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ryan Korsak <rkorsak@gmail.com>",
+  "license": "MIT"
+}
