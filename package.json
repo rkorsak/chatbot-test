@@ -8,5 +8,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Ryan Korsak <rkorsak@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "botbuilder": "0.6.0",
+    "restify": "4.0.4"
+  }
 }
